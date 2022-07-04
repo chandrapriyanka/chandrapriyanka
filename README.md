@@ -7,6 +7,6 @@
     Hemvati Nandan Bahuguna Garhwal University
 - 📫 How to reach me
 
-<ul><li>priyankachandra1000@gmail.com</li>
-    <li>https://www.linkedin.com/in/priyanka-chandra-b55aa41b2</li>
- </ul>
+<ul>   <li>priyankachandra1000@gmail.com</li>
+       <li>https://www.linkedin.com/in/priyanka-chandra-b55aa41b2</li>
+</ul>
