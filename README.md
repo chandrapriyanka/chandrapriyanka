@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Priyanka Chandra 
 - 🌱 Currently I'm pursuing M.Tech in CSE(Information Security)
                  from 
-    Central University of Rajasthan
+-     Central University of Rajasthan
 - 📫 How to reach me
 
 <ul>   <li>priyankachandra1000@gmail.com</li>
